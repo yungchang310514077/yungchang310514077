@@ -16,22 +16,33 @@ Here are some ideas to get you started:
 
 # Project
 
-## ECMO weaning evaluation based on intelligent functional near-infrared spectroscopy
+## Classification of ECMO patient prognosis
+<!--## ECMO weaning evaluation based on intelligent functional near-infrared spectroscopy -->
 <!-- 基於智慧功能性近紅外光光譜術的葉克膜撤機評估 -->
 
 ### About 
-- First item
-- Second item
-- Third item
-    - Indented item
-    - Indented item
-- Fourth item
+<!-- 本項計畫是與臺北榮民總醫院合作 -->
+<!-- 透過非侵入性的近紅外光光譜術(Near-infraredspectroscopy, NIRS) 監測裝置葉克膜患者膝下微循環之血氧變化 -->
+<!-- 建立長短期記憶模型，對患者病況進行分類(weaning or expired)，並且在 VV-ECMO 族群的分類中得到 90.91% 的準確率；在 VA-ECMO 族群的分類中得到 85.71% 的準確率 -->
+<!-- 應用可解釋的人工智慧來對結果可視化-->
+
+- This project is in collaboration with Taipei Veterans General Hospital.
+- Using non-invasive near-infrared spectroscopy (NIRS) to monitor blood oxygen changes in the microcirculation below the knee of ECMO patients.
+- Established a long short-term memory (LSTM) model to classify the patient's prognosis (weaning or expired), achieving an accuracy of 90.91% in the VV-ECMO group and 85.71% in the VA-ECMO group.
+- Applied explainable AI to visualize the results.
 
 ### Repository
-[Link](https://www.youtube.com/)
-
+<!-- [Link](https://www.youtube.com/) -->
+Link
+ 
 # Skills
 
 ### Machine learning
-### Data analysis
-
+- scikit-learn
+- pytorch
+  
+### Data analysis & Visulization
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
