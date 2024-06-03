@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+original example:
 **yungchang310514077/yungchang310514077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# HELLO
+# Project
+
+## ECMO weaning evaluation based on intelligent functional near-infrared spectroscopy
+<!-- 基於智慧功能性近紅外光光譜術的葉克膜撤機評估 -->
+
+### About 
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
+
+### Repository
+[Link](https://www.youtube.com/)
+
+# Skills
+
+### Machine learning
+### Data analysis
+
