@@ -37,9 +37,12 @@ Link
  
 # Skills
 
+### GUI
+-  PyQt
+  
 ### Machine learning
 - scikit-learn
-- pytorch
+- pytorch 
   
 ### Data analysis & Visulization
 - Numpy
